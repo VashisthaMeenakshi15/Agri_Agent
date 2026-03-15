@@ -6,7 +6,7 @@ from agent import root_agent
 
 # Initialize Vertex AI
 vertexai.init(
-    project="YOUR_PROJECT_ID",   # replace with your project id
+    project="fytzibz-ccai-gcp-sandbox",  
     location="us-central1"
 )
 
